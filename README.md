@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stranger0-0
 - 👀 I’m interested in web3.o
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Java, DSA and Javascript
 - 💞️ I’m looking to collaborate on web3.o
 - 📫 How to reach me?
 - email me on infork1998@gmail.com
